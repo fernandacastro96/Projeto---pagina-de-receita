@@ -41,5 +41,10 @@ de HTML e CSS, no curso de formação FullStack da Rocketseat.
 ![Preview do projeto](Preview.JPG)
 
 
+
+
+
+
+
  
 ⭐ Projeto desenvolvido para fins de aprendizado e prática de desenvolvimento web.
