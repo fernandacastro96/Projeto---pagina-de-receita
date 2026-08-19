@@ -1,6 +1,6 @@
 Página de Receita — Cupcake de Café
 
-#Sobre o projeto
+# Sobre o projeto
 
 O projeto consiste em uma página de receita de Cupcake de Café com Chantilly. Essa página foi desenvolvida acompanhando as aulas do módulo
 de HTML e CSS, no curso de formação FullStack da Rocketseat.
